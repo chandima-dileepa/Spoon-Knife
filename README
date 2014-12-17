@@ -1,4 +1,8 @@
 All that's missing is the fork. Heh.
 Done changes
 
+<<<<<<< HEAD
 commit 2
+=======
+commit 1
+>>>>>>> commit 1
