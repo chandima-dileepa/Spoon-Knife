@@ -2,3 +2,4 @@ commit 2 - parent
 commit 3 - parent
 commit 4 - parent
 commit 5 - parent
+commit 6 - parent
