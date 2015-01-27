@@ -4,3 +4,4 @@ commit 4 - parent
 commit 5 - parent
 commit 6 - parent
 commit 7 - parent
+commit 8 - parent
